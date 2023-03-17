@@ -14,4 +14,5 @@ TECHNOLOGIES USED
 3.Tableau
 
 
-[Dashboard - Revenue Analysis (1).pdf](https://github.com/kumarvishva/Tableau-Dashboards/files/11001221/Dashboard.-.Revenue.Analysis.1.pdf)
+
+![Dashboard 1](https://user-images.githubusercontent.com/124789383/225903891-13581e22-b1e6-4cd1-a9a8-643f50efa1af.png)
